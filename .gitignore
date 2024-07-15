@@ -1,0 +1,5 @@
+*ivecs
+*fvecs
+.vscode
+build
+records
