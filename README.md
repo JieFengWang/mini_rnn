@@ -5,6 +5,8 @@
 
 It was implemented with a Faiss-based backend. It is hard to run smoothly, I reorganized its code to make it easy to read, use and understand.
 
+Its indexing speed is really fast, almost 2X to kgraph and 4X to hnsw. I use it for fast indexing and won the Runner-up Award in [2024 SIGMOD Programming Contest](https://2024.sigmod.org/sigmod_awards.shtml)
+
 ## Quick Start
 
 > Tested works on Ubuntu.
